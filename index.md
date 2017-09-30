@@ -25,6 +25,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 [link](sample.com)
 
 
+## [](#header-1) Whitepaper
+
+[Read here](Whitepaper.pdf)
+
+
 ### Credit
 
 beer icons [credit](https://icons8.com/icon/26118/Beer-Pump)
