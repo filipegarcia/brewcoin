@@ -2,6 +2,7 @@
 
 ## Reshaping the craft beer scene in a new planet.
 
+Visit [brewcoin.xyz](http://brewcoin.xyz/) for more info
 
 Creating a cooperative system, that is linking all producers and brewers.
 
