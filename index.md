@@ -6,15 +6,13 @@ layout: default
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBeeYZwBqqSNTlUd2l8DVFxpuy9ah5MpnykMvSdgyxylhJmGfBNXo4MGA3q8uY6L758cFHwNNDqrex/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 {% endraw %}
 
-[Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+Creating a cooperative system, that is linking all producers and brewers. In a new a innovative supply chain taking consideration all raw material and waste Using a new crypto currency to power all purchases and along the way it will allow to track the beer from farm to glass.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # [](#header-1)Business plan
 
-[link](sample.com)
+[link](https://github.com/filipegarcia/brewcoin/tree/master/business_plan)
 
 ## [](#header-1) Brew Coin
 
@@ -22,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 ## [](#header-1) Track My Beer
 
-[link](sample.com)
+[link](https://github.com/filipegarcia/brewcoin/tree/master/beer_tracker)
 
 
 ## [](#header-1) Whitepaper
@@ -30,8 +28,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 [Read here](Whitepaper.pdf)
 
 
-### Credit
+## Contributors:
 
-beer icons [credit](https://icons8.com/icon/26118/Beer-Pump)
+*   Filipe Garcia
+*   Florian Batschi
+*   Marco Hinz
+*   Oleksandr Erm
+*   Oliver Schimek
+*   Alex Lawrence
 
-spaceship beer [credit](http://www.wallpaperup.com/100486/Becks_Beer_Alcohol_Spaceship_WTF.htm)
